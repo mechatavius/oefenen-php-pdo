@@ -1,0 +1,22 @@
+US-5 Als instructeur moet ik kunnen inloggen - (Licht)
+
+US-11 Als instructeur wil ik kunnen zien dat ik ingelogd ben - (Licht)
+
+US-12 Als instructeur wil ik, als ik ingelogd ben mededelingen voor instructeurs zien - (Licht)
+
+US-18 Als instructeur wil ik een dag rooster kunnen zien (met per les de ophaal locatie, de naam van de leerling, het te behandelen onderwerp) - (Zwaar)
+
+US-19 Als instructeur wil ik een weekrooster kunnen zien - (Gemiddeld)
+
+US-22 Als instructeur wil ik een les kunnen aanpassen -(Gemiddeld)
+
+US-23 Als instructeur wil ik achteraf opmerkingen kunnen toevoegen aan een les -(Licht) 
+
+US-24 Als instructeur wil ik me via een formulier ziek kunnen melden -(Gemiddeld)
+
+V1-US-5 Als instructeur wil ik de mankementen aan een auto kunnen melden - (Licht)
+
+V1-US-8 Als instructeur wil ik de kilometer stand aan het einde van de les dag kunnen invoeren- (Licht)
+
+
+
